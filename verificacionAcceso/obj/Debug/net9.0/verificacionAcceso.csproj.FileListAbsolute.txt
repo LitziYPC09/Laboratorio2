@@ -1,0 +1,14 @@
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\bin\Debug\net9.0\verificacionAcceso.exe
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\bin\Debug\net9.0\verificacionAcceso.deps.json
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\bin\Debug\net9.0\verificacionAcceso.runtimeconfig.json
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\bin\Debug\net9.0\verificacionAcceso.dll
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\bin\Debug\net9.0\verificacionAcceso.pdb
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.AssemblyInfoInputs.cache
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.AssemblyInfo.cs
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.csproj.CoreCompileInputs.cache
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.dll
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\refint\verificacionAcceso.dll
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.pdb
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\verificacionAcceso.genruntimeconfig.cache
+d:\Escritorio\Laboratorio2 programación1\verificacionAcceso\obj\Debug\net9.0\ref\verificacionAcceso.dll

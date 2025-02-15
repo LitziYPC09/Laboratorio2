@@ -1,0 +1,14 @@
+d:\Escritorio\Laboratorio2 programación1\diaSemana\bin\Debug\net9.0\diaSemana.exe
+d:\Escritorio\Laboratorio2 programación1\diaSemana\bin\Debug\net9.0\diaSemana.deps.json
+d:\Escritorio\Laboratorio2 programación1\diaSemana\bin\Debug\net9.0\diaSemana.runtimeconfig.json
+d:\Escritorio\Laboratorio2 programación1\diaSemana\bin\Debug\net9.0\diaSemana.dll
+d:\Escritorio\Laboratorio2 programación1\diaSemana\bin\Debug\net9.0\diaSemana.pdb
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.AssemblyInfoInputs.cache
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.AssemblyInfo.cs
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.csproj.CoreCompileInputs.cache
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.dll
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\refint\diaSemana.dll
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.pdb
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\diaSemana.genruntimeconfig.cache
+d:\Escritorio\Laboratorio2 programación1\diaSemana\obj\Debug\net9.0\ref\diaSemana.dll

@@ -1,0 +1,14 @@
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\bin\Debug\net9.0\ClasificacionEdad.exe
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\bin\Debug\net9.0\ClasificacionEdad.deps.json
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\bin\Debug\net9.0\ClasificacionEdad.runtimeconfig.json
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\bin\Debug\net9.0\ClasificacionEdad.dll
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\bin\Debug\net9.0\ClasificacionEdad.pdb
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.AssemblyInfoInputs.cache
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.AssemblyInfo.cs
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.csproj.CoreCompileInputs.cache
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.dll
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\refint\ClasificacionEdad.dll
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.pdb
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ClasificacionEdad.genruntimeconfig.cache
+d:\Escritorio\Laboratorio2 programación1\ClasificacionEdad\obj\Debug\net9.0\ref\ClasificacionEdad.dll

@@ -1,0 +1,57 @@
+C:\Users\IBI\Documents\TPG1\bin\Debug\net8.0\TPG1.exe
+C:\Users\IBI\Documents\TPG1\bin\Debug\net8.0\TPG1.deps.json
+C:\Users\IBI\Documents\TPG1\bin\Debug\net8.0\TPG1.runtimeconfig.json
+C:\Users\IBI\Documents\TPG1\bin\Debug\net8.0\TPG1.dll
+C:\Users\IBI\Documents\TPG1\bin\Debug\net8.0\TPG1.pdb
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.AssemblyInfo.cs
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.dll
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\refint\TPG1.dll
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.pdb
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\TPG1.genruntimeconfig.cache
+C:\Users\IBI\Documents\TPG1\obj\Debug\net8.0\ref\TPG1.dll
+D:\Descargas\TPG1\bin\Debug\net8.0\TPG1.exe
+D:\Descargas\TPG1\bin\Debug\net8.0\TPG1.deps.json
+D:\Descargas\TPG1\bin\Debug\net8.0\TPG1.runtimeconfig.json
+D:\Descargas\TPG1\bin\Debug\net8.0\TPG1.dll
+D:\Descargas\TPG1\bin\Debug\net8.0\TPG1.pdb
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.AssemblyInfoInputs.cache
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.AssemblyInfo.cs
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.csproj.CoreCompileInputs.cache
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.dll
+D:\Descargas\TPG1\obj\Debug\net8.0\refint\TPG1.dll
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.pdb
+D:\Descargas\TPG1\obj\Debug\net8.0\TPG1.genruntimeconfig.cache
+D:\Descargas\TPG1\obj\Debug\net8.0\ref\TPG1.dll
+d:\Escritorio\Lab2 Progra1\bin\Debug\net8.0\TPG1.exe
+d:\Escritorio\Lab2 Progra1\bin\Debug\net8.0\TPG1.deps.json
+d:\Escritorio\Lab2 Progra1\bin\Debug\net8.0\TPG1.runtimeconfig.json
+d:\Escritorio\Lab2 Progra1\bin\Debug\net8.0\TPG1.dll
+d:\Escritorio\Lab2 Progra1\bin\Debug\net8.0\TPG1.pdb
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.AssemblyInfoInputs.cache
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.AssemblyInfo.cs
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.csproj.CoreCompileInputs.cache
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.dll
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\refint\TPG1.dll
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.pdb
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\TPG1.genruntimeconfig.cache
+d:\Escritorio\Lab2 Progra1\obj\Debug\net8.0\ref\TPG1.dll
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\bin\Debug\net8.0\TPG1.exe
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\bin\Debug\net8.0\TPG1.deps.json
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\bin\Debug\net8.0\TPG1.runtimeconfig.json
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\bin\Debug\net8.0\TPG1.dll
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\bin\Debug\net8.0\TPG1.pdb
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.AssemblyInfoInputs.cache
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.AssemblyInfo.cs
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.csproj.CoreCompileInputs.cache
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.sourcelink.json
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.dll
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\refint\TPG1.dll
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.pdb
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\TPG1.genruntimeconfig.cache
+d:\Escritorio\Laboratorio2 programación1\Laboratorio2\obj\Debug\net8.0\ref\TPG1.dll
